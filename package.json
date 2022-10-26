@@ -1,0 +1,21 @@
+{
+  "name": "transpilation",
+  "version": "1.0.0",
+  "description": "LEARN BUILD TOOLS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d out"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimmueses/Transpilation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimmueses/Transpilation/issues"
+  },
+  "homepage": "https://github.com/Kimmueses/Transpilation#readme"
+}
